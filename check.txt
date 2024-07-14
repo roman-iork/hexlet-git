@@ -1,0 +1,1 @@
+this file is added to check whether ssh was set properly
